@@ -1,2 +1,0 @@
-class ProductionComany < ApplicationRecord
-end
